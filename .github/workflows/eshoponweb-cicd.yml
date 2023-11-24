@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-Yathish
   LOCATION: East US
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: 9b13bb03-4fb5-4212-aa3f-a36a4d7ca5e2
+  SUBSCRIPTION-ID: c8006aff-0841-4589-bfb8-eaf53e4d8bd2
   WEBAPP-NAME: az400-webapp-Yathish
 
 
